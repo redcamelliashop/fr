@@ -5,6 +5,7 @@
 body {
   font-family: "Poppins", "Arial", sans-serif;
   margin: 0px;
+  transition: transform 0.3s ease;
 }
 header {
   background: #690606;
